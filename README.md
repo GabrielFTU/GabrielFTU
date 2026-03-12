@@ -4,8 +4,6 @@
 
 # Gabriel Francisco Teixeira Uchoa
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=3500&pause=1200&color=8B9CB6&center=true&vCenter=true&width=500&lines=Backend+Developer;Java+·+C%23+·+PostgreSQL;Construindo+soluções+escaláveis." alt="Typing SVG" />
-
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel--franciscoo)
@@ -112,8 +110,6 @@ public class Gabriel {
 ---
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=4000&pause=800&color=8B9CB6&center=true&vCenter=true&width=480&lines=Aberto+a+conexões+e+oportunidades;Vamos+construir+algo+juntos" alt="Typing SVG" />
 
 <br/>
 
