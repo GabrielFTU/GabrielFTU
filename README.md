@@ -1,68 +1,125 @@
-# 👩🏻‍💻 Gabriel Francisco
-**`Desenvolvedor em Formação`**
+<div align="center">
 
-Estudante de Análise e Desenvolvimento de Sistemas na UMFG  
+<br/>
 
-Sou estudante de Análise e Desenvolvimento de Sistemas na UMFG, com grande interesse em tecnologia, programação e inovação digital. Estou em constante busca por novos aprendizados e desafios que me permitam expandir meus conhecimentos em desenvolvimento de software, tecnologias web e soluções escaláveis. Tenho uma abordagem focada em práticas de desenvolvimento ágil, com experiência em projetos acadêmicos e pessoais
+# Gabriel Francisco Teixeira Uchoa
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=3500&pause=1200&color=8B9CB6&center=true&vCenter=true&width=500&lines=Backend+Developer;Java+·+C%23+·+PostgreSQL;Construindo+soluções+escaláveis." alt="Typing SVG" />
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel--franciscoo)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GabrielFTU)
+[![Status](https://img.shields.io/badge/Status-Disponível%20para%20oportunidades-00d26a?style=for-the-badge&logo=checkmarx&logoColor=white)](https://github.com/GabrielFTU)
+
+</div>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## Sobre Mim
 
-<img
-aligh="left"
-alt="HTML"
-title="HTML"
-width="30px"
-style="padding-right: 10px;"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
- />
- <img 
- aligh="left"
- alt="CSS"
- title="CSS"
- width="30px"
- style="padding-right: 10px;"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
- />
- <img 
- aligh="left"
- alt="JAVA"
- title="JAVA"
- width="30px"
- style="padding-right: 10px;"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
- />
- <img 
- aligh="left"
- alt="C"
- title="C"
- width="30px"
- style="padding-right: 10px;"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
-/>
- <img 
- aligh="left"
- alt="POSTGRESQL"
- title="POSTGRESQL"
- width="30px"
- style="padding-right: 10px;"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" 
- />
+```java
+public class Gabriel {
 
- ### 📊 Estatísticas
- <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=GabrielFTU&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+    private String nome  = "Gabriel Francisco Teixeira Uchoa";
+    private String curso = "Análise e Desenvolvimento de Sistemas - UMFG";
+    private String foco  = "Backend Development";
 
-<img 
-      align="center" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFTU&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+    private String[] interesses = {
+        "APIs RESTful & Microsserviços",
+        "Arquitetura de Software",
+        "Bancos de Dados Relacionais",
+        "Containerização com Docker",
+        "Clean Code & Boas Práticas"
+    };
+
+    public String objetivo() {
+        return "Crescer como desenvolvedor backend, " +
+               "colaborar em projetos reais e construir " +
+               "soluções escaláveis e de alto impacto.";
+    }
+}
+```
+
+---
+
+## Stack Tecnológica
+
+<div align="center">
+
+### Linguagens & Frameworks
+
+<img src="https://skillicons.dev/icons?i=java,cs,js,ts,react,nextjs&theme=dark&perline=7" />
+
+### Banco de Dados
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark&perline=7" />
+
+### DevOps & Ferramentas
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,gitlab&theme=dark&perline=7" />
+
+</div>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielFTU&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFTU&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=GabrielFTU&theme=tokyonight&locale=pt_BR&date_format=j%20M%5B%20Y%5D)
+
+</div>
+
+---
+
+## Projetos em Destaque
+
+<div align="center">
+
+[![Barber Lane Page](https://github-readme-stats.vercel.app/api/pin/?username=GabrielFTU&repo=Barber-LanePage&theme=tokyonight&locale=pt-br)](https://github.com/GabrielFTU/Barber-LanePage)
+[![UMFG MVC](https://github-readme-stats.vercel.app/api/pin/?username=GabrielFTU&repo=umfg.prog-ii.mvc&theme=tokyonight&locale=pt-br)](https://github.com/GabrielFTU/umfg.prog-ii.mvc)
+[![Estágio Supervisionado](https://github-readme-stats.vercel.app/api/pin/?username=GabrielFTU&repo=ESTAGIO-SUPERVISIONADO&theme=tokyonight&locale=pt-br)](https://github.com/GabrielFTU/ESTAGIO-SUPERVISIONADO)
+
+</div>
+
+---
+
+## Roadmap
+
+```
+2025 ──────────────────────────────────────────────────────► 2026+
+
+  [✅] Fundamentos Java & C#
+  [✅] Banco de Dados Relacionais com PostgreSQL
+  [✅] Git, GitHub & GitLab
+  [✅] Containerização com Docker
+  [🔄] APIs RESTful & Spring Boot
+  [🔄] Kubernetes na prática
+  [⏳] Microsserviços & Arquitetura Distribuída
+  [⏳] CI/CD Pipelines
+  [⏳] Cloud (AWS / GCP)
+  [⏳] Primeira experiência profissional como Dev Backend
+```
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=4000&pause=800&color=8B9CB6&center=true&vCenter=true&width=480&lines=Aberto+a+conexões+e+oportunidades;Vamos+construir+algo+juntos" alt="Typing SVG" />
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel--franciscoo)
+[![GitHub Follow](https://img.shields.io/badge/Seguir%20no%20GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GabrielFTU)
+
+<br/>
+
+</div>
